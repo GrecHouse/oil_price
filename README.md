@@ -69,7 +69,7 @@ sensor:
 ```yaml
 sensor:
   - platform: oil_price
-    oil_type: '02'  
+    type: '02'  
     station_id:
       - '11111111'
       - '22222222'
@@ -82,11 +82,11 @@ sensor:
 |옵션|값|
 |--|--|
 |platform| (필수) oil_price |
-|oil_type| (옵션) 기름 종류.<br>미설정시 기본값은 '02'(휘발유) |
+|type| (옵션) 기름 종류.<br>미설정시 기본값은 '02'(휘발유) |
 |station_id| (옵션) 주유소 키 리스트.<br>미설정시 전국평균가격만 센서로 추가됨 |
 <br>
 
-**oil_type variable:**
+**type variable:**
 |값|종류|
 |--|--|
 |01|고급휘발유|
