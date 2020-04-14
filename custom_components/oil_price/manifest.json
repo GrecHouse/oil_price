@@ -1,0 +1,10 @@
+{
+  "domain": "oil_price",
+  "name": "Oil Price",
+  "documentation": "https://github.com/GrecHouse/oil_price",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@GrecHouse"
+  ]
+}
