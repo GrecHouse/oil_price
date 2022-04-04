@@ -157,7 +157,7 @@ class OilPriceSensor(Entity):
         return self.price
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Attributes."""
         data = { 'oil_type': self.oil_type,
                  'base_date': self.base_date }
