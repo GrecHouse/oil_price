@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-1.0.2-blue)
+![version](https://img.shields.io/badge/version-1.0.3-blue)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
 # 주유소 유가 정보 센서
@@ -20,6 +20,7 @@
 | :-----: | :---------: | ------------- |
 | v1.0    | 2020.04.14  | 최초 버전 |
 | v1.0.2  | 2022.04.04  | device_state_attributes -> extra_state_attributes |
+| v1.0.3  | 2022.05.09  | HA 2023.5 버전 카카오 플레이스 SSL 문제 회피 처리 |
 
 <br>
 
@@ -117,6 +118,4 @@ sensor:
 ## 버그 또는 문의사항
 네이버 카페 [HomeAssistant](https://cafe.naver.com/koreassistant/) `그렉하우스` \
 네이버 카페 [모두의스마트홈](https://cafe.naver.com/stsmarthome/) `그렉하우스`
-
-
 
