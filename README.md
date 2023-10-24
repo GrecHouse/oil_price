@@ -33,6 +33,8 @@ https://github.com/GrecHouse/gas_station_korea
 | v1.0    | 2020.04.14  | 최초 버전 |
 | v1.0.2  | 2022.04.04  | device_state_attributes -> extra_state_attributes |
 | v1.0.3  | 2022.05.09  | HA 2023.5 버전 카카오 플레이스 SSL 문제 회피 처리 |
+| v1.0.3  | 2023.10.24  | Deprecated |
+
 
 <br>
 
