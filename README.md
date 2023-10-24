@@ -1,6 +1,18 @@
 ![version](https://img.shields.io/badge/version-1.0.3-blue)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
+# ⛽ 통합구성요소 버전으로 이사합니다.
+
+이 센서는 더 이상 관리하지 않습니다.
+아래 링크의 센서를 이용해주세요.
+
+https://github.com/GrecHouse/gas_station_korea
+
+
+
+<br><br>
+
+
 # 주유소 유가 정보 센서
 
 즐겨찾는 주유소의 유가 정보를 보여줍니다. 전국평균 유가 정보 센서도 자동으로 추가됩니다.\
